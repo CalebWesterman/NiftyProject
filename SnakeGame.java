@@ -23,8 +23,6 @@ public class SnakeGame {
 			System.out.println("1");
 			numbers++;
 		}
-
-	// pussi
 		
 		
 			
