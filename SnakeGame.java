@@ -24,7 +24,7 @@ public class SnakeGame {
 			numbers++;
 		}
 
-	
+	// pussi
 		
 		
 			
